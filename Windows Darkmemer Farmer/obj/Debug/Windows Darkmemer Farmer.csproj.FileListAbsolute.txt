@@ -1,0 +1,20 @@
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.exe.config
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.exe
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.pdb
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Colorful.Console.dll
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.AssemblyReference.cache
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.CoreCompileInputs.cache
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.CopyComplete
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.exe
+C:\Users\cenor\source\repos\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.pdb
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.AssemblyReference.cache
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.CoreCompileInputs.cache
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.exe
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.pdb
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.exe.config
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.exe
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Windows Darkmemer Farmer.pdb
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\bin\Debug\Colorful.Console.dll
+C:\Users\cenor\Coding Projects\Windows Darkmemer Farmer\Windows Darkmemer Farmer\obj\Debug\Windows Darkmemer Farmer.csproj.CopyComplete
